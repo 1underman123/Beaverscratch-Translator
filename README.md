@@ -1,5 +1,5 @@
 ## What is this?
-A cli tool to either encrypt or decrypt to Beaverscratch.
+A cli tool to either encrypt or decrypt Beaverscratch.
 
 ### What is Beaverscratch?
 A simple substitution cipher used in Shipwrecked 64!
