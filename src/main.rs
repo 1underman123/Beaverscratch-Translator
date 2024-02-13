@@ -9,8 +9,8 @@ fn beaverscratch_decrypt_hashmap() -> HashMap<char, char> {
     hm.insert('d', 'c');
     hm.insert('e', 'f');
     hm.insert('f', 'e');
-    hm.insert('g', 'g');
-    hm.insert('h', 'h');
+    hm.insert('g', 'h');
+    hm.insert('h', 'g');
     hm.insert('i', 'j');
     hm.insert('j', 'i');
     hm.insert('k', 'l');
@@ -49,8 +49,8 @@ fn beaverscratch_encrypt_hashmap() -> HashMap<char, char> {
     hm.insert('k', 'l');
     hm.insert('n', 'm');
     hm.insert('m', 'n');
-    hm.insert('o', 'o');
-    hm.insert('p', 'p');
+    hm.insert('p', 'o');
+    hm.insert('o', 'p');
     hm.insert('r', 'q');
     hm.insert('q', 'r');
     hm.insert('t', 's');

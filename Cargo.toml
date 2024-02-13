@@ -3,5 +3,9 @@ name = "beaverscratch"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "beaverscratch"
+path = "src/main.rs"
+
 [dependencies]
 clap = { version = "4.5.0", features = ["derive"] }
